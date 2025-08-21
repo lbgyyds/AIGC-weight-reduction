@@ -1,3 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C853&size=30&center=true&vCenter=true&width=800&lines=你好，欢迎使用果子AIGC降重平台;项目可个人搭建上线，涵盖支付，备案，小程序;如果你也想搭建个人副业网站，可以进群联系;欢迎随时打扰~)](https://git.io/typing-svg)
+
+
 # 果子AIGC降重平台
 
 欢迎访问 **果子AIGC降重平台**，一个专为学生、研究者、自媒体创作者量身打造的智能文本改写工具！我们虽然开源托管于此，但我们的目标是吸引更多用户实际使用我们的降重服务，而不是单纯参与开发。以下是平台简介及使用指南：
