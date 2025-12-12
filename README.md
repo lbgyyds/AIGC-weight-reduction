@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C853&size=30&center=true&vCenter=true&width=800&lines=你好，欢迎使用果子AIGC降重平台;项目可个人搭建上线，涵盖支付，备案，小程序;如果你也想搭建个人副业网站，可以进群联系;欢迎随时打扰~)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2300C853&size=30&center=true&vCenter=true&width=800&lines=你好，欢迎使用果子AIGC降重平台;项目可个人搭建上线，涵盖支付，备案，小程序;如果你也想搭建个人副业网站，可以联系我们哦！！！;欢迎随时打扰~)](https://git.io/typing-svg)
 
 
 # 果子AIGC降重平台
